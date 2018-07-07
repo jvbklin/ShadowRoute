@@ -30,7 +30,8 @@
 
 XINPUT対応するコントローラーが推薦です。
 
-XINPUTゲームパッドの場合は
+
+##### XINPUTゲームパッドの場合は
 
 左スティック     移動
 
@@ -40,8 +41,7 @@ Aボタン          キャラクターの切り替え
 
 スタートボタン   スタートまたポーズ
 
-
-キーボードの場合は
+##### キーボードの場合は
 
 WASD      移動
 
@@ -61,6 +61,7 @@ https://github.com/speps/XInputDotNet
 
 
 フリー素材:
+
 https://pocket-se.info/archives/327/
 
 https://pocket-se.info/archives/408/
